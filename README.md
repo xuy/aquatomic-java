@@ -9,5 +9,5 @@ Screenshot
 ----------
 
 <center>
-<img src="https://github.com/imatix/gitdown/raw/master/images/README_1.png" alt="1">
+<img src="://github.com/xuy/aquatomic-java/raw/master/aqua.png" alt="1">
 </center>
